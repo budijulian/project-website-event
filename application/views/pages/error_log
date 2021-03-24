@@ -1,0 +1,13 @@
+[28-Aug-2020 19:04:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rofd5292/public_html/himasi.ftki.unas.ac.id/events/application/views/pages/event.php on line 2
+[28-Aug-2020 19:04:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/rofd5292/public_html/himasi.ftki.unas.ac.id/events/application/views/pages/event.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/rofd5292/public_html/himasi.ftki.unas.ac.id/events/application/views/pages/event.php on line 27
+[28-Aug-2020 19:04:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/rofd5292/public_html/himasi.ftki.unas.ac.id/events/application/views/pages/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/rofd5292/public_html/himasi.ftki.unas.ac.id/events/application/views/pages/index.php on line 14
+[28-Aug-2020 19:04:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/rofd5292/public_html/himasi.ftki.unas.ac.id/events/application/views/pages/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/rofd5292/public_html/himasi.ftki.unas.ac.id/events/application/views/pages/index.php on line 14
